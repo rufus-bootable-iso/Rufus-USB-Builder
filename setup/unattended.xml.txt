@@ -1,0 +1,1 @@
+UEFI:NTFS + GPT/MBR target templates and TPM check toggles.
